@@ -1,4 +1,4 @@
-# Khipu 2025 Practicals
+# Khipu 2025 Practicals (Coming soon!)
 
 | Topic 💥 | Description 📘 |
 |:--- |----------------------------------------------------------|
