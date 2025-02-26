@@ -11,7 +11,7 @@
 
 | Topic 💥 | Description 📘 |
 |:--- |----------------------------------------------------------|
-| [Graph Neural Networks](https://github.com/khipu-ai/practicals-2025/blob/main/notebooks/Graph_Neural_Networks.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khipu-ai/practicals-2025/blob/main/notebooks/Graph_Neural_Networks.ipynb)<br /> <br />                                                           | In this tutorial, we will be learning about Graph Neural Networks (GNNs), a topic which has exploded in popularity in both research and industry. We will start with a refresher on graph theory, then dive into how GNNs work from a high level. Next we will cover some popular GNN implementations and see how they work in practice. |
+| [Graph Neural Networks](https://github.com/khipu-ai/practicals-2025/blob/main/notebooks/Graph_Neural_Networks.ipynb) <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khipu-ai/practicals-2025/blob/main/notebooks/Graph_Neural_Networks.ipynb) | In this tutorial, we will be learning about Graph Neural Networks (GNNs), a topic which has exploded in popularity in both research and industry. We will start with a refresher on graph theory, then dive into how GNNs work from a high level. Next we will cover some popular GNN implementations and see how they work in practice. |
 
 ## Day 3
 
