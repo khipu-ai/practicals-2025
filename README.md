@@ -5,6 +5,8 @@
 | Topic 💥 | Description 📘 |
 |:--- |----------------------------------------------------------|
 [Introduction to ML Using JAX](https://github.com/khipu-ai/practicals-2025/blob/main/notebooks/Intro_to_ML.ipynb) <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khipu-ai/practicals-2025/blob/main/notebooks/Intro_to_ML.ipynb) | This tutorial introduces basic concepts in Machine Learning and their implementation using JAX. JAX is a high performance Python library for computation, optimization and model learning.   | 
+[**Let's map Chile!** Intro to Geospatial Machine Learning](https://github.com/khipu-ai/practicals-2025/blob/main/notebooks/geospatial_machine_learning.ipynb) <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khipu-ai/practicals-2025/blob/main/notebooks/geospatial_machine_learning.ipynb) | Satellite imagery and machine learning (ML) can help address many problems addressing the global south such as climate related challenges in food and water security, biodiversity, energy, and public health. To this end, this practical is designed to provide an introductory tutorial on geospatial machine learning for agriculture, particularly to classify farm-level crop types in Chile using Sentinel-2 satellite imagery. Starting with an introductory session on key concepts of geospatial ML, the tutorial delves into ML development, validation, and performance evaluation techniques. | 
+
 
 
 ## Day 2
