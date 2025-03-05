@@ -5,7 +5,7 @@
 | Topic 💥 | Description 📘 |
 |:--- |----------------------------------------------------------|
 [Introduction to ML Using JAX](https://github.com/khipu-ai/practicals-2025/blob/main/notebooks/Intro_to_ML.ipynb) <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khipu-ai/practicals-2025/blob/main/notebooks/Intro_to_ML.ipynb) | This tutorial introduces basic concepts in Machine Learning and their implementation using JAX. JAX is a high performance Python library for computation, optimization and model learning.   | 
-[**Let's map Chile!** Intro to Geospatial Machine Learning](https://github.com/khipu-ai/practicals-2025/blob/main/notebooks/geospatial_machine_learning.ipynb) <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khipu-ai/practicals-2025/blob/main/notebooks/geospatial_machine_learning.ipynb) | Satellite imagery and machine learning (ML) can help address many problems addressing the global south such as climate related challenges in food and water security, biodiversity, energy, and public health. To this end, this practical is designed to provide an introductory tutorial on geospatial machine learning for agriculture, particularly to classify farm-level crop types in Chile using Sentinel-2 satellite imagery. Starting with an introductory session on key concepts of geospatial ML, the tutorial delves into ML development, validation, and performance evaluation techniques. | 
+[**Let's map Chile!** Intro to Geospatial Machine Learning](https://github.com/khipu-ai/practicals-2025/blob/main/notebooks/Geospatial_Machine_Learning.ipynb) <br /> <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khipu-ai/practicals-2025/blob/main/notebooks/Geospatial_Machine_Learning.ipynb) | Satellite imagery and machine learning (ML) can help address many problems addressing the global south such as climate related challenges in food and water security, biodiversity, energy, and public health. To this end, this practical is designed to provide an introductory tutorial on geospatial machine learning for agriculture, particularly to classify farm-level crop types in Chile using Sentinel-2 satellite imagery. Starting with an introductory session on key concepts of geospatial ML, the tutorial delves into ML development, validation, and performance evaluation techniques. | 
 
 
 
@@ -34,8 +34,4 @@
 
 ## Attribution
 
-The above practicals are derived from the  [practicals developed for Indaba 2024](https://github.com/deep-learning-indaba/indaba-pracs-2024) with kind permission from the authors.
-
-
-
-<a href="https://colab.research.google.com/github/khipu-ai/practicals-2025/blob/main/practicals/Graph_Neural_Networks/Graph_Neural_Networks.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Some of the above practicals (including intro to LLMs, parameter efficient ML, geospatial ML, diffusion, RL) are derived from the  [practicals developed for Indaba 2024](https://github.com/deep-learning-indaba/indaba-pracs-2024) with kind permission from the authors. See each notebook for specific attribution information.
