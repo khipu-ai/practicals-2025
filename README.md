@@ -1,4 +1,4 @@
-# Khipu 2025 Practicals (Coming soon!)
+# Khipu 2025 Practicals
 
 ## Day 1 
 
